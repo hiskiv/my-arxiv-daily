@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1016,7 +1016,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## SFM
 
@@ -1454,7 +1454,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2659,7 +2659,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2976,7 +2976,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3326,7 +3326,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## NeRF
 
@@ -4976,12 +4976,19 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Robotics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/abs/2507.13231)|null|
+|**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Hengkai Tan et.al.|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Moises Andrade et.al.|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Muhayy Ud Din et.al.|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
+|**2025-07-12**|**Learning to Move in Rhythm: Task-Conditioned Motion Policies with Orbital Stability Guarantees**|Maximilian Stölzle et.al.|[2507.10602](http://arxiv.org/abs/2507.10602)|null|
 |**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Jialei Huang et.al.|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
 |**2025-07-11**|**Multi-frequency analysis of the ALMA and VLA high resolution continuum observations of the substructured disc around CI Tau. Preference for sub-mm-sized low-porosity amorphous carbonaceous grains**|Francesco Zagaria et.al.|[2507.08797](http://arxiv.org/abs/2507.08797)|null|
 |**2025-07-09**|**A Radio Flaring, Chromospherically-Inactive K Dwarf**|Dale A. Frail et.al.|[2507.07255](http://arxiv.org/abs/2507.07255)|null|
@@ -4997,12 +5004,19 @@
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Max Argus et.al.|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## World Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Yiqi Wang et.al.|[2507.13340](http://arxiv.org/abs/2507.13340)|null|
+|**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[2507.13162](http://arxiv.org/abs/2507.13162)|null|
+|**2025-07-17**|**Assessing adaptive world models in machines with novel games**|Lance Ying et.al.|[2507.12821](http://arxiv.org/abs/2507.12821)|null|
+|**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
+|**2025-07-18**|**Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models**|Lionel Wong et.al.|[2507.12547](http://arxiv.org/abs/2507.12547)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Yuncong Yang et.al.|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
+|**2025-07-15**|**FOUNDER: Grounding Foundation Models in World Models for Open-Ended Embodied Decision Making**|Yucen Wang et.al.|[2507.12496](http://arxiv.org/abs/2507.12496)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797](http://arxiv.org/abs/2507.09797)|null|
 |**2025-07-13**|**MobiWorld: World Models for Mobile Wireless Network**|Haoye Chai et.al.|[2507.09462](http://arxiv.org/abs/2507.09462)|null|
@@ -5026,14 +5040,16 @@
 |**2025-07-03**|**Optimisation Is Not What You Need**|Alfredo Ibias et.al.|[2507.03045](http://arxiv.org/abs/2507.03045)|null|
 |**2025-07-03**|**Rethinking Data Protection in the (Generative) Artificial Intelligence Era**|Yiming Li et.al.|[2507.03034](http://arxiv.org/abs/2507.03034)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Action Representation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**|Yiqi Wang et.al.|[2507.13340](http://arxiv.org/abs/2507.13340)|null|
+|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/abs/2507.13231)|null|
 |**2025-07-09**|**Cross-Modal Dual-Causal Learning for Long-Term Action Recognition**|Xu Shaowu et.al.|[2507.06603](http://arxiv.org/abs/2507.06603)|null|
-|**2025-07-06**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Wenyao Zhang et.al.|[2507.04447](http://arxiv.org/abs/2507.04447)|null|
+|**2025-07-17**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Wenyao Zhang et.al.|[2507.04447](http://arxiv.org/abs/2507.04447)|null|
 |**2025-07-04**|**CLOT: Closed Loop Optimal Transport for Unsupervised Action Segmentation**|Elena Bueno-Benito et.al.|[2507.03539](http://arxiv.org/abs/2507.03539)|null|
 |**2025-07-09**|**Latent Action Diffusion for Cross-Embodiment Manipulation**|Erik Bauer et.al.|[2506.14608](http://arxiv.org/abs/2506.14608)|null|
 |**2025-06-19**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
@@ -5044,7 +5060,7 @@
 |**2025-06-06**|**Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization**|Jonathan Yang et.al.|[2506.06196](http://arxiv.org/abs/2506.06196)|null|
 |**2025-06-06**|**Action-Adaptive Continual Learning: Enabling Policy Generalization under Dynamic Action Spaces**|Chaofan Pan et.al.|[2506.05702](http://arxiv.org/abs/2506.05702)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
